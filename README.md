@@ -80,5 +80,3 @@ Inspired by Sony TV's Kaun Banega Crorepati
 
 
 ---
-
-If you want, I can also **add emojis, better formatting, and a “winning money ladder” table** in the README so it feels like the real KBC ladder. That would make it look more professional and fun.

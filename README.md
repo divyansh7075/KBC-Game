@@ -53,7 +53,9 @@ python kbc.py
 
 📸 Sample Gameplay
 Q1: Who is the Prime Minister of India?
+
 A) Rahul Gandhi    B) Narendra Modi
+
 C) Arvind Kejriwal D) Amit Shah
 
 Enter your choice (A/B/C/D) or type 'lifeline':

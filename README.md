@@ -58,6 +58,7 @@ C) Arvind Kejriwal D) Amit Shah
 
 Enter your choice (A/B/C/D) or type 'lifeline':
 
+
 💡 Future Improvements
 
 🎵 Add sound effects & intro music
